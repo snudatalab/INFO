@@ -11,7 +11,8 @@ The detailed information about dataset is summarized in the table below.
 | Memtest86-seq |           31 |       1599 |    433,334 |            216,696 |
 
 We include the preprocessed data of Memtest86-seq dataset in this repository.
-Due to the size limit, we upload `final_data` [link](https://drive.google.com/file/d/1JQQxuk3qUDAhCfNKZA3iBoYQxmeJOIWZ/view?usp=share_link) folder on google drive.
+Due to the size limit, we upload `final_data` folder on google drive.
+You can download the data from [[link]](https://drive.google.com/file/d/1JQQxuk3qUDAhCfNKZA3iBoYQxmeJOIWZ/view?usp=share_link).
 `final_data` folder contains the entire feature vector for workload classification.
 `sequences` folder includes n-gram sequences selected as CMD features.
 The detailed structures of these directories are as follows:
