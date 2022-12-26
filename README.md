@@ -17,6 +17,7 @@ You can download the data from [[link]](https://drive.google.com/file/d/1JQQxuk3
 `sequences` folder includes n-gram sequences selected as CMD features.
 The detailed structures of these directories are as follows:
 ```
+current directory
 ├── final_data
 │   ├── 7-grams
 │   ├── 11-grams
