@@ -1,5 +1,5 @@
-# Interpreting Workload Classification Model Predictions
-These are codes for "Interpreting Workload Classification Model Predictions", submitted to Plos One.
+# Fast and accurate interpretation of workload classification
+These are codes for "Fast and accurate interpretation of workload classification", submitted to Plos One 2023.
 
 ## Dataset
 We use a real-world workload dataset for classification.
