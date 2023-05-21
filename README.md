@@ -1,5 +1,5 @@
 # Fast and accurate interpretation of workload classification
-These are codes for "Fast and accurate interpretation of workload classification", submitted to Plos One 2023.
+These are codes for "Fast and accurate interpretation of workload classification", published Plos One 2023.
 
 ## Dataset
 We use a real-world workload dataset for classification.
@@ -47,6 +47,7 @@ This repository contains the code for INFO, INterpretable model For wOrkload cla
   * `model.py`: implement MLP for classification.
   * `dataloader.py`: load workload sequence data and extract feature vectors for classification.
 
+
 To interpret the classification results, you have to type the following command.
 ```shell
 python main.py
@@ -56,3 +57,17 @@ You can train a workload classification model through the command below.
 python train.py
 ```
 These commands run the codes in the default setting.
+
+## Citation
+```
+@article{shim2023fast,
+  title={Fast and accurate interpretation of workload classification model},
+  author={Shim, Sooyeon and Kim, Doyeon and Jang, Jun-Gi and Chae, Suhyun and Lee, Jeeyong and Kang, U},
+  journal={Plos one},
+  volume={18},
+  number={3},
+  pages={e0282595},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+```
