@@ -1,5 +1,5 @@
 # Fast and accurate interpretation of workload classification
-These are codes for "Fast and accurate interpretation of workload classification", published Plos One 2023.
+These are codes for "Fast and accurate interpretation of workload classification", published in Plos One 2023.
 
 ## Dataset
 We use a real-world workload dataset for classification.
